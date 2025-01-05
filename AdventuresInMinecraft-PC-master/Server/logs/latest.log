@@ -1,290 +1,220 @@
-[21:43:51] [Server thread/INFO]: Starting minecraft server version 1.12
-[21:43:51] [Server thread/INFO]: Loading properties
-[21:43:51] [Server thread/INFO]: Default game type: CREATIVE
-[21:43:51] [Server thread/INFO]: Generating keypair
-[21:43:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:43:51] [Server thread/INFO]: Using default channel type
-[21:43:51] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
-[21:43:51] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
-[21:43:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:43:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:43:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:43:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:43:51] [Server thread/INFO]: Preparing level "world"
-[21:43:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: -965002521132654623)
-[21:43:53] [Server thread/INFO]: Preparing spawn area: 18%
-[21:43:54] [Server thread/INFO]: Preparing spawn area: 41%
-[21:43:55] [Server thread/INFO]: Preparing spawn area: 61%
-[21:43:56] [Server thread/INFO]: Preparing spawn area: 81%
-[21:43:57] [Server thread/INFO]: Preparing spawn area: 97%
-[21:43:57] [Server thread/INFO]: Preparing start region for level 1 (Seed: -965002521132654623)
-[21:43:58] [Server thread/INFO]: Preparing spawn area: 28%
-[21:43:59] [Server thread/INFO]: Preparing spawn area: 68%
-[21:44:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: -965002521132654623)
-[21:44:00] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
-[21:44:00] [Server thread/INFO]: [RaspberryJuice] Using port 4711
-[21:44:00] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
-[21:44:00] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
-[21:44:00] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[21:44:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:44:01] [Server thread/INFO]: Done (9,121s)! For help, type "help" or "?"
-[21:44:12] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
-[21:44:12] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
-[21:44:12] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
-[21:44:12] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
-[21:44:12] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
-[21:44:12] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
-[21:50:03] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[21:50:07] [Server thread/INFO]: There are 0/20 players online:
-[21:50:07] [Server thread/INFO]: 
-[21:52:32] [Server thread/INFO]: joel[/127.0.0.1:49373] logged in with entity id 2866 at ([world]-85.5, 74.0, 247.5)
-[21:59:23] [Server thread/INFO]: You must specify which player you wish to perform this action on.
-[21:59:27] [Server thread/INFO]: joel fell out of the world
-[21:59:27] [Server thread/INFO]: Killed joel
-[21:59:58] [Server thread/INFO]: Usage: /teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
-[22:00:10] [Server thread/INFO]: Seed: -965002521132654623
-[22:00:27] [Server thread/INFO]: Usage: /say <message ...>
-[22:00:31] [Server thread/INFO]: [Server] hello
-[22:02:15] [Server thread/INFO]: Usage: /stats <entity|block> ...
-[22:02:25] [Server thread/INFO]: Usage: /tell <player> <private message ...>
-[22:02:35] [Server thread/INFO]: You whisper to joel: hello...
-[22:03:22] [Server thread/INFO]: You whisper to joel: hello...
-[22:04:09] [Server thread/INFO]: Usage: /pardon <name>
-[22:04:14] [Server thread/INFO]: Could not unban player joel
-[22:04:27] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
-[22:04:27] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
-[22:04:27] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
-[22:04:27] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
-[22:04:27] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
-[22:04:27] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
-[22:04:36] [Server thread/INFO]: Usage: /me <action ...>
-[22:04:47] [Server thread/INFO]: Usage: /scoreboard <objectives|players|teams> ...
-[22:04:55] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[22:05:07] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[22:24:11] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[22:24:14] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[22:24:20] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
-[22:24:20] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
-[22:24:20] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
-[22:24:20] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
-[22:24:20] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
-[22:24:20] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
-[22:24:27] [Server thread/INFO]: Usage: /kick <player> [reason ...]
-[22:24:55] [Server thread/INFO]: Stopping the server
-[22:24:55] [Server thread/INFO]: Stopping server
-[22:24:55] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.10
-[22:24:55] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
-[22:24:55] [Server thread/INFO]: Saving players
-[22:24:55] [Server thread/INFO]: joel lost connection: Server closed
-[22:24:55] [Server thread/INFO]: joel left the game
-[22:24:55] [Server thread/INFO]: Saving worlds
-[22:24:55] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[22:24:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[22:24:55] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[22:27:59] [Server thread/INFO]: Starting minecraft server version 1.12
+[22:27:59] [Server thread/INFO]: Loading properties
+[22:27:59] [Server thread/INFO]: Default game type: CREATIVE
+[22:27:59] [Server thread/INFO]: Generating keypair
+[22:27:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:27:59] [Server thread/INFO]: Using default channel type
+[22:28:00] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[22:28:00] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[22:28:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:28:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:28:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:28:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:28:00] [Server thread/INFO]: Preparing level "world"
+[22:28:00] [Server thread/INFO]: Preparing start region for level 0 (Seed: -965002521132654623)
+[22:28:01] [Server thread/INFO]: Preparing start region for level 1 (Seed: -965002521132654623)
+[22:28:02] [Server thread/INFO]: Preparing start region for level 2 (Seed: -965002521132654623)
+[22:28:02] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[22:28:02] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[22:28:02] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[22:28:02] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[22:28:02] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[22:28:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:28:02] [Server thread/INFO]: Done (1,644s)! For help, type "help" or "?"
+[22:28:05] [Server thread/INFO]: joel[/127.0.0.1:50284] logged in with entity id 12 at ([world]-102.76734529899167, 64.0, 259.886825368841)
+[22:33:53] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50319.
+[22:33:53] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[22:33:53] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[22:33:53] [Server thread/INFO]: noob[m
+[22:33:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50319.
+[22:42:28] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50446.
+[22:42:28] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[22:42:28] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[22:42:28] [Server thread/INFO]: jeje... Se ha colocado TNT.[m
+[22:42:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50446.
+[22:43:06] [Server thread/INFO]: You must specify which player you wish to perform this action on.
+[22:43:11] [Server thread/INFO]: You must specify which player you wish to perform this action on.
+[22:43:33] [Server thread/INFO]: Usage: /teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+[22:43:41] [Server thread/INFO]: Usage: /teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+[22:43:50] [Server thread/INFO]: Teleported joel to 10.5, 20.0, 10.5
+[22:43:50] [Server thread/WARN]: joel moved too quickly! 113.26734529899167,-44.0,-249.38682536884102
+[22:44:02] [Server thread/INFO]: joel has made the advancement [Stone Age]
+[22:44:34] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50470.
+[22:44:34] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[22:44:34] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[22:44:34] [Server thread/INFO]: jeje... Se ha colocado TNT.[m
+[22:44:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50470.
+[22:45:24] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50487.
+[22:45:24] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[22:45:24] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[22:45:24] [Server thread/INFO]: jeje... Se ha colocado TNT.[m
+[22:45:24] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50487.
+[22:46:30] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[22:46:30] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[22:46:30] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[22:46:30] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[22:46:30] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[22:46:30] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[22:46:45] [Server thread/INFO]: Usage: /stats <entity|block> ...
+[22:46:49] [Server thread/INFO]: Usage: /stats <entity|block> ...
+[22:46:57] [Server thread/INFO]: Usage: /stats <entity|block> ...
+[22:47:12] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[22:47:12] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.10
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[22:47:12] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[22:47:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:47:12] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[22:47:30] [Server thread/INFO]: Usage: /time <set|add|query> <value>
+[22:47:40] [Server thread/INFO]: Usage: /me <action ...>
+[22:47:47] [Server thread/INFO]: * Server tell
+[22:48:10] [Server thread/INFO]: Player 'hellooooo' cannot be found
+[22:48:23] [Server thread/INFO]: [Server] hellooooo im here
+[22:48:49] [Server thread/INFO]: You whisper to joel: hellooooo im here
+[22:50:10] [Thread-16/INFO]: [RaspberryJuice] Starting input thread
+[22:50:10] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50566.
+[22:50:10] [Thread-17/INFO]: [RaspberryJuice] Starting output thread!
+[22:50:10] [Server thread/INFO]: noob[m
+[22:50:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50566.
+[22:51:48] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50597.
+[22:51:48] [Thread-18/INFO]: [RaspberryJuice] Starting input thread
+[22:51:48] [Thread-19/INFO]: [RaspberryJuice] Starting output thread!
+[22:51:48] [Server thread/INFO]: El oraculo dice: No[m
+[22:51:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50597.
+[22:54:56] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50698.
+[22:54:56] [Thread-21/INFO]: [RaspberryJuice] Starting output thread!
+[22:54:56] [Thread-20/INFO]: [RaspberryJuice] Starting input thread
+[22:54:56] [Server thread/INFO]: Torre construida.[m
+[22:54:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50698.
+[23:00:00] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50797.
+[23:00:00] [Thread-22/INFO]: [RaspberryJuice] Starting input thread
+[23:00:00] [Thread-23/INFO]: [RaspberryJuice] Starting output thread!
+[23:00:00] [Server thread/INFO]: Torre construida.[m
+[23:00:00] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50797.
+[23:01:50] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50821.
+[23:01:50] [Thread-25/INFO]: [RaspberryJuice] Starting output thread!
+[23:01:50] [Thread-24/INFO]: [RaspberryJuice] Starting input thread
+[23:01:50] [Server thread/INFO]: Torre construida.[m
+[23:01:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50821.
+[23:02:37] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50836.
+[23:02:37] [Thread-26/INFO]: [RaspberryJuice] Starting input thread
+[23:02:37] [Thread-27/INFO]: [RaspberryJuice] Starting output thread!
+[23:02:37] [Server thread/INFO]: Torre construida.[m
+[23:02:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50836.
+[23:04:07] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50881.
+[23:04:07] [Thread-28/INFO]: [RaspberryJuice] Starting input thread
+[23:04:07] [Thread-29/INFO]: [RaspberryJuice] Starting output thread!
+[23:04:07] [Server thread/INFO]: Torre construida.[m
+[23:04:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50881.
+[23:05:06] [Server thread/INFO]: Teleported joel to 3.5, 88.0, -102.5
+[23:05:55] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50917.
+[23:05:55] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[23:05:55] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[23:05:55] [Server thread/INFO]: jeje... Se ha colocado TNT.[m
+[23:05:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50917.
+[23:09:46] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50940.
+[23:09:46] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[23:09:46] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[23:09:46] [Server thread/INFO]: jeje... Se ha colocado TNT.[m
+[23:09:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50940.
+[23:10:32] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50961.
+[23:10:32] [Thread-34/INFO]: [RaspberryJuice] Starting input thread
+[23:10:32] [Thread-35/INFO]: [RaspberryJuice] Starting output thread!
+[23:10:32] [Server thread/INFO]: Torre construida.[m
+[23:10:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50961.
+[23:13:53] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51001.
+[23:13:53] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
+[23:13:53] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
+[23:13:53] [Server thread/INFO]: Mineria completada...[m
+[23:13:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51001.
+[23:15:16] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51015.
+[23:15:16] [Thread-38/INFO]: [RaspberryJuice] Starting input thread
+[23:15:16] [Thread-39/INFO]: [RaspberryJuice] Starting output thread!
+[23:15:17] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 1001 to next tick
+[23:15:17] [Server thread/INFO]: Mineria completada...[m
+[23:15:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51015.
+[23:16:01] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51036.
+[23:16:01] [Thread-40/INFO]: [RaspberryJuice] Starting input thread
+[23:16:01] [Thread-41/INFO]: [RaspberryJuice] Starting output thread!
+[23:16:02] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 948 to next tick
+[23:16:02] [Server thread/INFO]: Mineria completada...[m
+[23:16:02] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51036.
+[23:17:18] [Thread-15/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51053.
+[23:17:18] [Thread-43/INFO]: [RaspberryJuice] Starting output thread!
+[23:17:18] [Thread-42/INFO]: [RaspberryJuice] Starting input thread
+[23:17:18] [Server thread/INFO]: Torre construida.[m
+[23:17:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51053.
