@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-05 21:54:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-01-05 21:52:46 +0100",
+      "forest_hills": "2025-01-05 21:52:33 +0100"
+    },
+    "done": false
+  }
+}
