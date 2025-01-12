@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
-from mcpi.minecraft import Minecraft
-from mcpi.block import TNT
+from agents.base_agent import MinecraftAgent
+import mcpi.block as block
+import time  
 
-class TNTBot:
-    def __init__(self):
-        self.mc = Minecraft.create()
-
-    def place_tnt(self, x, y, z):
-        self.mc.setBlock(x, y, z, TNT.id, 1)  # Coloca TNT encendida
-        self.mc.postToChat("jeje... Se ha colocado TNT.")
-
-if __name__ == "__main__":
-    bot = TNTBot()
-    bot.place_tnt(4, 79, -103)
+class TNTBot(MinecraftAgent):
+   def __init__(self, name):
+        super().__init__(name)
+ 
+   def perform_action(self):
+        while True:
+            pos = self.mc.player.getTilePos()
+            self.mc.setBlock(pos.x + 1, pos.y, pos.z, block.TNT.id)
+            self.say("jeje... ups... a TNT appeared...")
+            time.sleep(5)
