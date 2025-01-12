@@ -7,11 +7,11 @@ class InsultBot(MinecraftAgent):
     def __init__(self, name):
         super().__init__(name)
         self.insults = [
-            "You call that a house? Even a creeper could build better!",
-            "Are you mining with a wooden pickaxe? How noob!",
-            "Watch out! Oh wait, it's just your reflection.",
-            "I've seen zombies with better strategies than you.",
-            "Even chickens laugh at your builds!"
+            "asshole",
+            "noob",
+            "draft cow",
+            "maggot",
+            "loser"
         ]
 
     def insult(self):
@@ -19,11 +19,12 @@ class InsultBot(MinecraftAgent):
         self.say(insult)
 
     def perform_action(self):
-        self.say("I'm here to insult you, brace yourself!")
-        try:
-            while True:
-                self.insult()
-                time.sleep(3)
-        except KeyboardInterrupt:
-            self.say("Goodbye! Stopping now.")
-            print("\nBot stopped by user.")
+        self.say("Type 'list_methods' in chat to see what I can do!")
+        while True:
+            posts = self.mc.events.pollChatPosts()
+            for post in posts:
+                if post.message == "list_methods":
+                    self.list_methods()
+                else:
+                    self.insult()
+

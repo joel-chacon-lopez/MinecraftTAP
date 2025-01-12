@@ -2,32 +2,36 @@
 import random
 from agents.base_agent import MinecraftAgent
 
+def log_interaction(func):
+    def wrapper(self, question):
+        self.say(f"Logging question: {question}")
+        response = func(self, question)
+        with open("oracle_log.txt", "a") as log_file:
+            log_file.write(f"Q: {question} -> A: {response}\n")
+        return response
+    return wrapper
+
 class OracleBot(MinecraftAgent):
     def __init__(self, name):
         super().__init__(name)
+        self.responses = {
+            "build": "Build a castle!",
+            "explore": "Explore a cave!",
+            "mine": "Find some diamonds!"
+        }
 
-    def ask(self, question):
-        responses = [
-            "Build a castle!",
-            "Try a treehouse.",
-            "How about exploring a cave?",
-            "Collect some diamonds!",
-            "Create an underwater base."
-        ]
-        return random.choice(responses)
+    @log_interaction
+    def generate_response(self, question):
+        for keyword, response in self.responses.items():
+            if keyword in question.lower():
+                return response
+        return "That's an interesting question!"
 
     def perform_action(self):
-        self.mc.postToChat(f"[{self.name}]: I'm ready, ask me something!")
-
+        self.say("Ask me something!")
         while True:
             posts = self.mc.events.pollChatPosts()
-
             for post in posts:
-                player_name = post.entityId
                 question = post.message
-
-                answer = self.ask(question)
-
-                self.mc.postToChat(f"[{self.name}]: {player_name} asked: {question}")
-                self.mc.postToChat(f"[{self.name}]: My answer: {answer}")
-
+                answer = self.generate_response(question)
+                self.say(answer)

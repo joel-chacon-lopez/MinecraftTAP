@@ -12,3 +12,6 @@ class MinecraftAgent:
     def perform_action(self):
         raise NotImplementedError("Este metodo debe ser implementado por subclases.")
 
+    def list_methods(self):
+        methods = [method for method in dir(self) if callable(getattr(self, method)) and not method.startswith("__")]
+        self.say(f"Available methods: {', '.join(methods)}")
