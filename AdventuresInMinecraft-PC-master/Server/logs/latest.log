@@ -19340,3 +19340,19 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 [20:01:07] [Netty Server IO #7/INFO]: <prueba> list_methods[m
 [20:01:07] [Server thread/INFO]: [InsultBot]: Available methods: insult, list_methods, perform_action, say[m
 [20:01:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58800.
+[20:19:49] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59161.
+[20:19:49] [Thread-90/INFO]: [RaspberryJuice] Starting output thread!
+[20:19:49] [Thread-89/INFO]: [RaspberryJuice] Starting input thread
+[20:19:49] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[20:19:54] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[20:19:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59161.
+[20:21:44] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59183.
+[20:21:44] [Thread-92/INFO]: [RaspberryJuice] Starting output thread!
+[20:21:44] [Thread-91/INFO]: [RaspberryJuice] Starting input thread
+[20:21:44] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[20:21:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59183.
+[20:23:09] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59197.
+[20:23:09] [Thread-93/INFO]: [RaspberryJuice] Starting input thread
+[20:23:09] [Thread-94/INFO]: [RaspberryJuice] Starting output thread!
+[20:23:09] [Server thread/INFO]: [InsultBot]: Type 'list_methods' in chat to see what I can do![m
+[20:23:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59197.
