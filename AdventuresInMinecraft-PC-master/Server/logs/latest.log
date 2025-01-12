@@ -19250,3 +19250,28 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 [19:03:18] [Server thread/INFO]: prueba was blown up by joel
 [19:07:52] [Server thread/INFO]: Teleported prueba to -108.5, 101.0, 253.5
 [19:07:52] [Server thread/WARN]: prueba moved too quickly! -17.0,37.0,-3.0
+[19:13:22] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57626.
+[19:13:22] [Thread-72/INFO]: [RaspberryJuice] Starting output thread!
+[19:13:22] [Thread-71/INFO]: [RaspberryJuice] Starting input thread
+[19:13:22] [Server thread/INFO]: [InsultBot]: I'm here to insult you, brace yourself![m
+[19:13:22] [Server thread/INFO]: [InsultBot]: Are you mining with a wooden pickaxe? How noob![m
+[19:13:25] [Server thread/INFO]: [InsultBot]: Watch out! Oh wait, it's just your reflection.[m
+[19:13:26] [Server thread/INFO]: [InsultBot]: Goodbye! Stopping now.[m
+[19:13:26] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57626.
+[19:13:31] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57629.
+[19:13:31] [Thread-73/INFO]: [RaspberryJuice] Starting input thread
+[19:13:31] [Thread-74/INFO]: [RaspberryJuice] Starting output thread!
+[19:13:31] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[19:13:37] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[19:13:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57629.
+[19:13:43] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57630.
+[19:13:43] [Thread-76/INFO]: [RaspberryJuice] Starting output thread!
+[19:13:43] [Thread-75/INFO]: [RaspberryJuice] Starting input thread
+[19:13:43] [Server thread/INFO]: [OracleBot]: I'm ready, ask me something![m
+[19:14:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57630.
+[19:14:06] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57634.
+[19:14:06] [Thread-77/INFO]: [RaspberryJuice] Starting input thread
+[19:14:06] [Thread-78/INFO]: [RaspberryJuice] Starting output thread!
+[19:14:06] [Server thread/INFO]: [BuilderBot]: Building a house near you![m
+[19:14:06] [Server thread/INFO]: [BuilderBot]: House built at (-106, 102, 255)[m
+[19:14:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57634.
