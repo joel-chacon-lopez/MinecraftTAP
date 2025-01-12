@@ -19356,3 +19356,325 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 [20:23:09] [Thread-94/INFO]: [RaspberryJuice] Starting output thread!
 [20:23:09] [Server thread/INFO]: [InsultBot]: Type 'list_methods' in chat to see what I can do![m
 [20:23:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59197.
+[21:09:30] [Server thread/INFO]: joel lost connection: Disconnected
+[21:09:30] [Server thread/INFO]: joel left the game
+[21:13:23] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[21:13:23] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[21:13:23] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[21:13:23] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[21:13:23] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[21:13:23] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[21:15:38] [Server thread/INFO]: joel[/127.0.0.1:60598] logged in with entity id 475 at ([world]-92.26952366940067, 119.10569628496064, 275.3388923506294)
+[21:16:08] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60609.
+[21:16:08] [Thread-96/INFO]: [RaspberryJuice] Starting output thread!
+[21:16:08] [Thread-95/INFO]: [RaspberryJuice] Starting input thread
+[21:16:08] [Server thread/INFO]: [BuilderBot]: Building a house near you![m
+[21:16:08] [Server thread/INFO]: [BuilderBot]: House built![m
+[21:16:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60609.
+[21:16:35] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60619.
+[21:16:35] [Thread-97/INFO]: [RaspberryJuice] Starting input thread
+[21:16:35] [Thread-98/INFO]: [RaspberryJuice] Starting output thread!
+[21:16:36] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:16:41] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:16:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60619.
+[21:18:11] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60649.
+[21:18:11] [Thread-99/INFO]: [RaspberryJuice] Starting input thread
+[21:18:11] [Thread-100/INFO]: [RaspberryJuice] Starting output thread!
+[21:18:11] [Server thread/INFO]: [BuilderBot]: Building a house near you![m
+[21:18:11] [Server thread/INFO]: [BuilderBot]: House built![m
+[21:18:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60649.
+[21:18:17] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60650.
+[21:18:17] [Thread-101/INFO]: [RaspberryJuice] Starting input thread
+[21:18:17] [Thread-102/INFO]: [RaspberryJuice] Starting output thread!
+[21:18:17] [Server thread/INFO]: [InsultBot]: Type 'list_methods' in chat to see what I can do![m
+[21:18:22] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60650.
+[21:18:30] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60651.
+[21:18:30] [Thread-103/INFO]: [RaspberryJuice] Starting input thread
+[21:18:30] [Thread-104/INFO]: [RaspberryJuice] Starting output thread!
+[21:18:30] [Server thread/INFO]: [OracleBot]: Ask me something![m
+[21:18:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60651.
+[21:22:02] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60739.
+[21:22:02] [Thread-105/INFO]: [RaspberryJuice] Starting input thread
+[21:22:02] [Thread-106/INFO]: [RaspberryJuice] Starting output thread!
+[21:22:02] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:07] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:12] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:17] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:22] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:27] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:32] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:37] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:43] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:48] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:53] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:22:58] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:03] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:08] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:13] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:18] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:23] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:28] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:33] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:38] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:43] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:48] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:53] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:23:58] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:03] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:08] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:13] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:19] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:24] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:29] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:34] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:39] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:44] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:49] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:54] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:24:59] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:04] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:09] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:14] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:19] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:24] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:29] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:34] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:39] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:44] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:49] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:25:54] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:26:00] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:26:05] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[21:26:09] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60739.
+[21:27:44] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60875.
+[21:27:44] [Thread-107/INFO]: [RaspberryJuice] Starting input thread
+[21:27:44] [Thread-108/INFO]: [RaspberryJuice] Starting output thread!
+[21:27:44] [Server thread/INFO]: [InsultBot]: Type 'list_methods' in chat to see what I can do![m
+[21:28:03] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[21:28:16] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[21:28:23] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[21:28:27] [Server thread/INFO]: Usage: /say <message ...>
+[21:28:33] [Server thread/INFO]: [Server] list_methods
+[21:28:51] [Netty Server IO #7/INFO]: <prueba> list_methods[m
+[21:28:51] [Server thread/INFO]: [InsultBot]: Available methods: insult, list_methods, perform_action, say[m
+[21:28:56] [Netty Server IO #7/INFO]: <prueba> insult[m
+[21:28:56] [Server thread/INFO]: [InsultBot]: maggot[m
+[21:29:02] [Netty Server IO #7/INFO]: <prueba> insult[m
+[21:29:02] [Server thread/INFO]: [InsultBot]: noob[m
+[21:57:11] [Server thread/INFO]: prueba lost connection: Internal Exception: java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+[21:57:11] [Server thread/INFO]: prueba left the game
+[22:00:25] [Server thread/INFO]: prueba[/192.168.1.45:61677] logged in with entity id 476 at ([world]-108.73859901407067, 97.0, 253.14757439232332)
+[22:00:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60875.
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61759.
+[22:14:39] [Thread-109/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-110/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61760.
+[22:14:39] [Thread-111/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-112/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61761.
+[22:14:39] [Thread-113/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-114/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61762.
+[22:14:39] [Thread-115/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-116/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61763.
+[22:14:39] [Thread-117/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-118/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Server thread/INFO]: [TestAgent]: Available methods: list_methods, perform_action, say[m
+[22:14:39] [Server thread/INFO]: [TestAgent]: Hello![m
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61764.
+[22:14:39] [Thread-120/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-119/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61765.
+[22:14:39] [Thread-121/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-122/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61766.
+[22:14:39] [Thread-123/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-124/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61767.
+[22:14:39] [Thread-125/INFO]: [RaspberryJuice] Starting input thread
+[22:14:39] [Thread-126/INFO]: [RaspberryJuice] Starting output thread!
+[22:14:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61759.
+[22:14:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61762.
+[22:14:39] [Server thread/INFO]: [BuilderBot]: Building a house near you![m
+[22:14:39] [Server thread/INFO]: [BuilderBot]: House built![m
+[22:14:39] [Server thread/INFO]: [InsultBot]: loser[m
+[22:14:39] [Server thread/INFO]: [OracleBot]: Logging question: What should I build?[m
+[22:14:39] [Server thread/INFO]: [OracleBot]: Ask me something![m
+[22:14:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61766.
+[22:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61760.
+[22:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61761.
+[22:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61763.
+[22:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61764.
+[22:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61765.
+[22:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61767.
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61784.
+[22:16:05] [Thread-127/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-128/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61785.
+[22:16:05] [Thread-129/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-130/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61786.
+[22:16:05] [Thread-131/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-132/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61787.
+[22:16:05] [Thread-133/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-134/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61788.
+[22:16:05] [Thread-135/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-136/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Server thread/INFO]: [TestAgent]: Available methods: list_methods, perform_action, say[m
+[22:16:05] [Server thread/INFO]: [TestAgent]: Hello![m
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61789.
+[22:16:05] [Thread-138/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-137/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61790.
+[22:16:05] [Thread-139/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-140/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61791.
+[22:16:05] [Thread-141/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-142/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61792.
+[22:16:05] [Thread-143/INFO]: [RaspberryJuice] Starting input thread
+[22:16:05] [Thread-144/INFO]: [RaspberryJuice] Starting output thread!
+[22:16:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61784.
+[22:16:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61787.
+[22:16:05] [Server thread/INFO]: [BuilderBot]: Building a house near you![m
+[22:16:05] [Server thread/INFO]: [BuilderBot]: House built![m
+[22:16:05] [Server thread/INFO]: [InsultBot]: maggot[m
+[22:16:05] [Server thread/INFO]: [OracleBot]: Logging question: What should I build?[m
+[22:16:05] [Server thread/INFO]: [OracleBot]: Ask me something![m
+[22:16:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61791.
+[22:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61785.
+[22:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61786.
+[22:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61788.
+[22:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61789.
+[22:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61790.
+[22:16:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61792.
+[22:24:13] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61900.
+[22:24:13] [Thread-146/INFO]: [RaspberryJuice] Starting output thread!
+[22:24:13] [Thread-145/INFO]: [RaspberryJuice] Starting input thread
+[22:24:13] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61901.
+[22:24:13] [Thread-148/INFO]: [RaspberryJuice] Starting output thread!
+[22:24:13] [Thread-147/INFO]: [RaspberryJuice] Starting input thread
+[22:24:13] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61902.
+[22:24:13] [Thread-149/INFO]: [RaspberryJuice] Starting input thread
+[22:24:13] [Thread-150/INFO]: [RaspberryJuice] Starting output thread!
+[22:24:13] [Server thread/INFO]: [TestAgent]: Available methods: list_methods, perform_action, say[m
+[22:24:13] [Server thread/INFO]: [TestAgent]: Hello![m
+[22:24:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61900.
+[22:24:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61901.
+[22:24:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61902.
+[22:34:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62065.
+[22:34:01] [Thread-151/INFO]: [RaspberryJuice] Starting input thread
+[22:34:01] [Thread-152/INFO]: [RaspberryJuice] Starting output thread!
+[22:34:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62066.
+[22:34:01] [Thread-154/INFO]: [RaspberryJuice] Starting output thread!
+[22:34:01] [Thread-153/INFO]: [RaspberryJuice] Starting input thread
+[22:34:01] [Server thread/INFO]: [InsultBot]: noob[m
+[22:34:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62065.
+[22:34:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62066.
+[22:48:14] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62325.
+[22:48:14] [Thread-155/INFO]: [RaspberryJuice] Starting input thread
+[22:48:14] [Thread-156/INFO]: [RaspberryJuice] Starting output thread!
+[22:48:14] [Server thread/INFO]: [BuilderBot]: Building a house near you![m
+[22:48:14] [Server thread/INFO]: [BuilderBot]: House built![m
+[22:48:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62325.
+[22:48:24] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62326.
+[22:48:24] [Thread-157/INFO]: [RaspberryJuice] Starting input thread
+[22:48:24] [Thread-158/INFO]: [RaspberryJuice] Starting output thread!
+[22:48:24] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62326.
+[22:49:37] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62356.
+[22:49:37] [Thread-159/INFO]: [RaspberryJuice] Starting input thread
+[22:49:37] [Thread-160/INFO]: [RaspberryJuice] Starting output thread!
+[22:49:47] [Netty Server IO #10/INFO]: <prueba> j[m
+[22:49:47] [Server thread/INFO]: [InsultBot]: maggot[m
+[22:49:58] [Netty Server IO #10/INFO]: <prueba> list_methods[m
+[22:49:58] [Server thread/INFO]: [InsultBot]: Available methods: insult, list_methods, perform_action, say[m
+[22:50:03] [Netty Server IO #10/INFO]: <prueba> insult[m
+[22:50:03] [Server thread/INFO]: [InsultBot]: asshole[m
+[22:50:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62356.
+[22:50:10] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62359.
+[22:50:10] [Thread-161/INFO]: [RaspberryJuice] Starting input thread
+[22:50:10] [Thread-162/INFO]: [RaspberryJuice] Starting output thread!
+[22:50:10] [Server thread/INFO]: [OracleBot]: Ask me something![m
+[22:50:21] [Netty Server IO #10/INFO]: <prueba> something to build[m
+[22:50:21] [Server thread/INFO]: [OracleBot]: Logging question: something to build[m
+[22:50:21] [Server thread/INFO]: [OracleBot]: Build a castle![m
+[22:50:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62359.
+[22:50:34] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62363.
+[22:50:34] [Thread-163/INFO]: [RaspberryJuice] Starting input thread
+[22:50:34] [Thread-164/INFO]: [RaspberryJuice] Starting output thread!
+[22:50:35] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[22:50:40] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[22:50:45] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
+[22:50:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62363.

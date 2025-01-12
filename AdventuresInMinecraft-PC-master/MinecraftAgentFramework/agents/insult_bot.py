@@ -19,7 +19,7 @@ class InsultBot(MinecraftAgent):
         self.say(insult)
 
     def perform_action(self):
-        self.say("Type 'list_methods' in chat to see what I can do!")
+        start_time = time.time()
         while True:
             posts = self.mc.events.pollChatPosts()
             for post in posts:
@@ -27,4 +27,3 @@ class InsultBot(MinecraftAgent):
                     self.list_methods()
                 else:
                     self.insult()
-
