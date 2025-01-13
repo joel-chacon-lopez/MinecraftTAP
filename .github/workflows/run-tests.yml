@@ -24,5 +24,14 @@ jobs:
     - name: Set PYTHONPATH
       run: echo "PYTHONPATH=$(pwd)/AdventuresInMinecraft-PC-master/MinecraftAgentFramework" >> $GITHUB_ENV
 
-    - name: Run Unit Tests
-      run: python -m unittest discover -s AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests -p "test_*.py"
+    - name: Run Base Agent Test
+        run: python -m unittest AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests/test_base_agent.py
+
+    - name: Run Insult Bot Test
+      run: python -m unittest AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests/test_insult_bot.py
+
+    - name: Run Oracle Bot Test
+      run: python -m unittest AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests/test_oracle_bot.py
+
+    - name: Run TNT Bot Test
+      run: python -m unittest AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests/test_tnt_bot.py
