@@ -19,8 +19,8 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'  
+        python-version: '3.9'
 
     - name: Run Unit Tests
       run: |
-        python -m unittest discover -s AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests "*.py"
+        python -m unittest discover -s AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests -p "test_*.py"
