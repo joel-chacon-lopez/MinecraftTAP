@@ -22,9 +22,6 @@ jobs:
       with:
         python-version: '3.9'
 
-    - name: Set PYTHONPATH
-      run: echo "PYTHONPATH=/AdventuresInMinecraft-PC-master/MinecraftAgentFramework" >> $GITHUB_ENV
-
     - name: Run Base Agent Test
       run: python -m unittest AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests/test_base_agent.py
 
