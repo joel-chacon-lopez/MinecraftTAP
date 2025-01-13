@@ -19678,3 +19678,5 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 [22:50:40] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
 [22:50:45] [Server thread/INFO]: [TNTBot]: jeje... ups... a TNT appeared...[m
 [22:50:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62363.
+[23:23:23] [Server thread/INFO]: prueba lost connection: Disconnected
+[23:23:23] [Server thread/INFO]: prueba left the game
