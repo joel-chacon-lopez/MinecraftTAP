@@ -19,11 +19,8 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'  # Puedes ajustar la versión de Python según tu proyecto
-
-    - name: Set PYTHONPATH
-      run: echo "PYTHONPATH=$PYTHONPATH:$(pwd)/AdventuresInMinecraft-PC-master/MinecraftAgentFramework" >> $GITHUB_ENV
+        python-version: '3.9'  
 
     - name: Run Unit Tests
       run: |
-        python -m unittest discover -s AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests -p "*.py"
+        python -m unittest discover -s AdventuresInMinecraft-PC-master/MinecraftAgentFramework/tests "*.py"
