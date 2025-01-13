@@ -24,14 +24,16 @@ class OracleBot(MinecraftAgent):
     def generate_response(self, question):
         for keyword, response in self.responses.items():
             if keyword in question.lower():
+                self.say(response)  # Asegurar que la respuesta se diga
                 return response
-        return "That's an interesting question!"
+        default_response = "That's an interesting question!"
+        self.say(default_response)  # Asegurar que la respuesta genérica se diga
+        return default_response
 
     def perform_action(self):
         self.say("Ask me something!")
-        while True:
-            posts = self.mc.events.pollChatPosts()
-            for post in posts:
-                question = post.message
-                answer = self.generate_response(question)
-                self.say(answer)
+        posts = self.mc.events.pollChatPosts()
+        for post in posts:
+            question = post.message
+            answer = self.generate_response(question)
+            self.say(answer)

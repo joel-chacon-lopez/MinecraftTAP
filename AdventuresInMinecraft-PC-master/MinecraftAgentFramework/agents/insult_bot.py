@@ -20,10 +20,9 @@ class InsultBot(MinecraftAgent):
 
     def perform_action(self):
         start_time = time.time()
-        while True:
-            posts = self.mc.events.pollChatPosts()
-            for post in posts:
-                if post.message == "list_methods":
-                    self.list_methods()
-                else:
-                    self.insult()
+        posts = self.mc.events.pollChatPosts()
+        for post in posts:
+            if post.message == "list_methods":
+                self.list_methods()
+            else:
+                self.insult()
